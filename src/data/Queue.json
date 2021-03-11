@@ -1,0 +1,51 @@
+[
+    {
+        "name": "One piece",
+        "episode": "S1 E900",
+        "image": "https://img1.ak.crunchyroll.com/i/spire4/8056a82e973dde98ebb82abd39dc69731564519729_medium.jpg",
+        "like": true
+    },
+    {
+        "name": "overlord",
+        "episode": "S1 E13",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3/9e1a4846885dc3994414b608f80490781531935326_medium.jpg",
+        "like": true
+    },
+    {
+        "name": "Black Clover",
+        "episode": "S1 E20",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3/501db6b69ced79e79a556b20cbdb9c5d1609784936_medium.jpg",
+        "like": false
+    },
+    {
+        "name": "Orange",
+        "episode": "S1 E12",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3/4052cb0ee15e76c3795319b0a08c1ecb1467466859_medium.jpg",
+        "like": true
+    },
+    {
+        "name": "Re:ZERO -Starting Life in Another World",
+        "episode": "S2 E12",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3/291c6c3b60857afabe46899f848079a41610403802_medium.jpg",
+        "like": true
+    },
+    {
+        "name": "That Time I Got Reincarnated as a Slime",
+        "episode": "S1 E22",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3/318f6f33529b0058bd5f1916f6fd1a521610491107_medium.jpg",
+        "like": false
+    },
+    {
+        "name": "Hunter x Hunter",
+        "episode": "S1 E60",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3/cbb55a6382682bf71e91f685c6473c5a1487736090_medium.jpg",
+        "like": true
+    },
+    {
+        "name": "Tower of God",
+        "episode": "S1 E17",
+        "image": "https://img1.ak.crunchyroll.com/i/spire3/43d580a5ec49edf6101a573e267500501603756654_medium.jpg",
+        "like": true
+    }
+    
+]

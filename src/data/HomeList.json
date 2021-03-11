@@ -1,0 +1,108 @@
+{
+    "MostPopular": [
+        {
+            "name":  "JUJUTSU KAISEN",
+            "image": "https://img1.ak.crunchyroll.com/i/spire3/02c909684baa37d6ef70a9df742d58951610752067_large.jpg"
+        },
+        {
+            "name":  "DEATH NOTE",
+            "image": "https://img1.ak.crunchyroll.com/i/spire4/697c8b5ff2f49a97348b5507c06e11831576116356_full.jpg"
+        },
+        {
+            "name":  "Dr. STONE",
+            "image": "https://img1.ak.crunchyroll.com/i/spire3/a2afe488cbf6448cda89eb8f87852aec1610654741_large.jpg"
+        },
+        {
+            "name":  "That Time I Got Reincarnated as a Slime",
+            "image": "https://img1.ak.crunchyroll.com/i/spire3/318f6f33529b0058bd5f1916f6fd1a521610491107_large.jpg"
+        },
+        {
+            "name":  "Re:ZERO -Starting Life in Another World-",
+            "image": "https://img1.ak.crunchyroll.com/i/spire3/291c6c3b60857afabe46899f848079a41610403802_large.jpg"
+        },
+        {
+            "name":  "Hunter x Hunter",
+            "image": "https://img1.ak.crunchyroll.com/i/spire3/cbb55a6382682bf71e91f685c6473c5a1487736090_large.jpg"
+        },
+        {
+            "name": "Black Clover",
+            "image": "https://img1.ak.crunchyroll.com/i/spire3/501db6b69ced79e79a556b20cbdb9c5d1609784936_large.jpg"
+        },
+        {
+            "name": "The Rising of the Shield Hero",
+            "image": "https://img1.ak.crunchyroll.com/i/spire4/25627becf63b169d19af7efee6122e791555537428_large.jpg"
+        }
+    ],
+
+    "JustUpdatedOnCrunchyroll": [
+        {
+            "name": "Kuroko's Basketball",
+            "image": "https://img1.ak.crunchyroll.com/i/spire1/be611b65eb36149005789b740efc7a361333664528_full.jpg"
+        },
+        {
+            "name": "Ahiru no Sora",
+            "image": "https://img1.ak.crunchyroll.com/i/spire3/c202f485b6c4a286e8867bb9bbb782361585936040_full.jpg"
+        },
+        {
+            "name":  "Sword Art Online",
+            "image": "https://img1.ak.crunchyroll.com/i/spire4/7d3070bc3f5e32a8187ceea7445013301594706429_full.jpg"
+        },
+        {
+            "name":  "GIVEN",
+            "image": "https://img1.ak.crunchyroll.com/i/spire2/b0ccaf974df65b4a74c0b84f3696ecd41562788869_full.jpg"
+        },
+        {
+            "name":  "SAGA OF TANYA THE EVIL",
+            "image": "https://img1.ak.crunchyroll.com/i/spire1/b6cb5d2061b72df2e04e6b9678acfa631483619277_full.jpg"
+        },
+        {
+            "name":  "EX-ARM",
+            "image": "https://img1.ak.crunchyroll.com/i/spire2/cf98f7a3b1be7bcc8f8adad942d4fe5b1610149394_full.jpg"
+        },
+        {
+            "name":  "ReLIFE",
+            "image": "https://img1.ak.crunchyroll.com/i/spire4/06f2c7030f794acf0bfdd34e5735bd191465708255_full.jpg"
+        },
+        
+        {
+            "name":  "I'm Standing on a Million Lives",
+            "image": "https://img1.ak.crunchyroll.com/i/spire4/2e4a0cdbe01f971f421426a83cdb0a2f1601618251_full.jpg"
+        }
+
+    ],
+    
+    "NewRelease": [
+        {
+            "name": "My Hero Academia",
+            "image": "https://img1.ak.crunchyroll.com/i/spire2/cccce22d1dfaaf713284a617ee0b539a1572467883_full.jpg"
+        },
+        {
+            "name": "Food Wars! Shokugeki no Soma",
+            "image": "https://img1.ak.crunchyroll.com/i/spire2/9f9d3ec824444991d22082852cdc3c741586972680_full.jpg"
+        },
+        {
+            "name": "Yashahime: Princess Half-Demon",
+            "image": "https://img1.ak.crunchyroll.com/i/spire4/b146918726d8b831eb9b629e22c7e6c91601635233_full.jpg"
+        },
+        {
+            "name": "The Hidden Dungeon Only I Can Enter",
+            "image": "https://img1.ak.crunchyroll.com/i/spire3/03440af3a96a2aa889271b081cb0830a1610110002_full.jpg"
+        },
+        {
+            "name": "JoJo's Bizarre Adventure",
+            "image": "https://img1.ak.crunchyroll.com/i/spire3/04b29833ccaaf2ee6bda1d08f2f02ecf1539039197_full.jpg"
+        },
+        {
+            "name": "WAVE!! -Let's go surfing!!-",
+            "image": "https://img1.ak.crunchyroll.com/i/spire2/4a322fb54d9af85813a50c6d099cd7591610363907_full.jpg"
+        },
+        {
+            "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+            "image": "https://img1.ak.crunchyroll.com/i/spire1/9ebfc0a37f1eb2c8aa2a9117dbab43c91603933134_full.jpg"
+        },
+        {
+            "name": "RADIANT",
+            "image": "https://img1.ak.crunchyroll.com/i/spire2/e75203df3d9fbee76d042cb172994f1d1571271082_full.jpg"
+        }
+    ]        
+}
