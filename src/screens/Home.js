@@ -78,13 +78,14 @@ const styles = StyleSheet.create({
     },
     header: {
         width: '100%',
-        height: 70,
+        // height: 70,
         justifyContent: 'space-between',
         alignItems: 'center',
         flexDirection: 'row',
         backgroundColor: '#000',
         paddingHorizontal: 15,
-        paddingTop: statusBarHeight,
+        paddingBottom: 20,
+        paddingTop: statusBarHeight + 10,
     },
     banner: {
         flex: 1,
